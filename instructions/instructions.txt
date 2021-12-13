@@ -1,0 +1,14 @@
+Instrucciones.
+
+1. Crea una nueva rama del nombre que quieras
+2. Agrega un archivo (Imagen, Chiste, lo que quieras) a un folder que se llame 'atlas-campeon'
+3. Haz commit con buenas practicas
+4. Agrega otro archivo al primer folder
+5. Haz commit con buenas practicas
+6. Crea otra rama con un comando diferente al primero que usaste
+7. Agrega un archivo (Imagen, Chiste, lo que quieras) a un folder que se llame 'atlas-campeon-2021'
+8. Haz commit con buenas practicas
+9. Borra el segundo archivo de la primer rama que creaste, con un comando de git (pista rm)
+10. Haz un merge de todos tus commits a main
+11. Haz un push al remoto de main
+
