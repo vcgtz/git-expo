@@ -8,7 +8,9 @@ Instrucciones.
 6. Crea otra rama con un comando diferente al primero que usaste
 7. Agrega un archivo (Imagen, Chiste, lo que quieras) a un folder que se llame 'atlas-campeon-2021'
 8. Haz commit con buenas practicas
-9. Borra el segundo archivo de la primer rama que creaste, con un comando de git (pista rm)
-10. Haz un merge de todos tus commits a main
-11. Haz un push al remoto de main
+9. Cambia el nombre de la segunda rama
+10. Borra el segundo archivo de la primer rama que creaste, con un comando de git (pista reset)
+11. Haz commit con buenas practicas
+12. Haz un merge de todos tus commits a main
+13. Haz un push al remoto de main
 
